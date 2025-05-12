@@ -18,7 +18,7 @@ A partir do exposto acima, partimos para entender a condição das mulheres ness
 
 Existem várias bases para análise da questão da violência no país, disponibilizado pelo IPEA (Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
 
-Homicídios por armas de fogo.
+**1. Homicídios por armas de fogo**.
 
 Fonte: 🔗 Atlas da Violência – Taxa de Homicídio de Mulheres por Armas de Fogo.
 
