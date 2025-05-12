@@ -16,28 +16,27 @@ Segundo o Comitê da ONU (Organização das Nações Unidas), sobre os Direitos 
 
 A partir do exposto acima, partimos para entender a condição das mulheres nesse mesmo quadro de violência envolvendo armas de fogo.
 
-Existem várias bases para análise da questão da violência no país, disponibilizado pelo [IPEA](Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
+Existem várias bases para análise da questão da violência no país, disponibilizado pelo IPEA (Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
 
 Homicídios por armas de fogo.
+
 Fonte: 🔗 Atlas da Violência – Taxa de Homicídio de Mulheres por Armas de Fogo.
 
 Nesse Dataset, temos uma série temporal que vai de 1989 a 2022. Nele, é possível verificar os homicídios de todos os estados brasileiros e suas respectivas cidades.
 
-Desse modo, essa base possui os seguintes dados:
-
 Esse projeto se divide em 6 partes: 
 
-1. Coleta e exploração dos dados: aqui vamos explorar os dados de homicídios por arma de fogo nos estados e cidades brasileiras.
+**1. Coleta e exploração dos dados:** aqui vamos explorar os dados de homicídios por arma de fogo nos estados e cidades brasileiras.
 
-2. Tratamento dos dados: para remoção de missings, dados inconsistentes e/ou incompletos.
+**2. Tratamento dos dados:** para remoção de missings, dados inconsistentes e/ou incompletos.
 
-3. Análise e visualiação dos dados: para termos um panorama das principais cidades e estados com os dados sobre homicídios por armas de fogo. Comparando os dados, podemos extrair insights valiosos para pensar a questão da segurança da mulheres em nossa sociedade.
+**3. Análise e visualiação dos dados:** para termos um panorama das principais cidades e estados com os dados sobre homicídios por armas de fogo. Comparando os dados, podemos extrair insights valiosos para pensar a questão da segurança da mulheres em nossa sociedade.
 
-4. Insights gerais: nesse último tópico procuramos extrair o quadro atual da situação brasileira, em termos de segurança das mulheres, e quais desdobramentos podemos sugerir para futuros projetos que ajudem na criação e manutenção de um Brasil mais seguro e sem violência contra as mulheres.
+**4. Insights gerais:** nesse último tópico procuramos extrair o quadro atual da situação brasileira, em termos de segurança das mulheres, e quais desdobramentos podemos sugerir para futuros projetos que ajudem na criação e manutenção de um Brasil mais seguro e sem violência contra as mulheres.
 
-5. Análise para o estado de Minas Gerais: por fim, fazemos uma análise comparativa com o estado de Minas Gerais, estado onde resido, atualmente.
+**5. Análise para o estado de Minas Gerais:** por fim, fazemos uma análise comparativa com o estado de Minas Gerais, estado onde resido, atualmente.
 
-6. Predição dos dados: o modelo aqui é univariado (apenas com as taxas de homicídio ao longo do tempo). Fazemos um exercício de previsão para discutir sobre o aumento ou diminuição, para a próxima década, dos níveis de homicídio, tomando o estado de Minas Gerais como base. Apontamos, no final, os trabalhos futuros com outras fontes de dados para uma maior explanação do tema.
+**6. Predição dos dados:** o modelo aqui é univariado (apenas com as taxas de homicídio ao longo do tempo). Fazemos um exercício de previsão para discutir sobre o aumento ou diminuição, para a próxima década, dos níveis de homicídio, tomando o estado de Minas Gerais como base. Apontamos, no final, os trabalhos futuros com outras fontes de dados para uma maior explanação do tema.
 _______________
 ## Implentações com Streamlit:
 
