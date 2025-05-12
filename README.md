@@ -6,7 +6,7 @@ _______________
 ### Análise Preditiva
 **Univariadas**
 _______________
-**📊📈Projeto Independente**
+### **📊📈Projeto Independente**
 
 Este é um problema de análise sobre a violência contra as mulheres no Brasil.
 
@@ -16,7 +16,7 @@ Segundo o Comitê da ONU (Organização das Nações Unidas), sobre os Direitos 
 
 A partir do exposto acima, partimos para entender a condição das mulheres nesse mesmo quadro de violência envolvendo armas de fogo.
 
-Existem várias bases para análise da questão da violência no país, disponibilizado pelo IPEA (Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
+Existem várias bases para análise da questão da violência no país, disponibilizado pelo [IPEA](Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
 
 Homicídios por armas de fogo.
 Fonte: 🔗 Atlas da Violência – Taxa de Homicídio de Mulheres por Armas de Fogo.
