@@ -16,7 +16,7 @@ Segundo o Comitê da [ONU](https://brasil.un.org/pt-br?afd_azwaf_tok=eyJhbGciOiJ
 
 A partir do exposto acima, partimos para entender a condição das mulheres nesse mesmo quadro de violência envolvendo armas de fogo.
 
-Existem várias bases para análise da questão da violência no país, disponibilizado pelo IPEA (Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
+Existem várias bases para análise da questão da violência no país, disponibilizado pelo [IPEA](https://www.ipea.gov.br/atlasviolencia/) (Instituto de Pesquisa Econômica Aplicada). Abaixo, as bases que foram utilizadas para este projeto:
 
 **1. Homicídios por armas de fogo**.
 
