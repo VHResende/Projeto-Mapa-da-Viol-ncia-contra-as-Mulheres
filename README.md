@@ -20,7 +20,7 @@ Existem várias bases para análise da questão da violência no país, disponib
 
 **1. Homicídios por armas de fogo**.
 
-Fonte: 🔗 Atlas da Violência – Taxa de Homicídio de Mulheres por Armas de Fogo.
+Fonte: 🔗 [Atlas da Violência – Taxa de Homicídio de Mulheres por Armas de Fogo](https://www.ipea.gov.br/atlasviolencia/filtros-series).
 
 Nesse Dataset, temos uma série temporal que vai de 1989 a 2022. Nele, é possível verificar os homicídios de todos os estados brasileiros e suas respectivas cidades.
 
