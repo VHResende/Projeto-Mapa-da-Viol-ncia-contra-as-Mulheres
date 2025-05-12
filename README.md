@@ -47,4 +47,4 @@ _______________
 [streamlit-app_homicidios-minas gerais.webm](https://github.com/user-attachments/assets/61204325-b1cf-492b-91ac-e8c8237175de)
 
 _______________
-
+📊 **by Victor Resende**
