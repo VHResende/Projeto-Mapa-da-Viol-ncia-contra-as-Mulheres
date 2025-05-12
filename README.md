@@ -30,7 +30,7 @@ Esse projeto se divide em 6 partes:
 
 **2. Tratamento dos dados:** para remoção de missings, dados inconsistentes e/ou incompletos.
 
-**3. Análise e visualiação dos dados:** para termos um panorama das principais cidades e estados com os dados sobre homicídios por armas de fogo. Comparando os dados, podemos extrair *insights* valiosos para pensar a questão da segurança da mulheres em nossa sociedade.
+**3. Análise e visualiação dos dados:** para termos um panorama das principais cidades e estados com os dados sobre homicídios por armas de fogo. Comparando os dados, podemos extrair *insights* valiosos para pensar a questão da segurança das mulheres em nossa sociedade.
 
 **4. *Insights* gerais:** nesse último tópico procuramos extrair o quadro atual da situação brasileira, em termos de segurança das mulheres, e quais desdobramentos podemos sugerir para futuros projetos que ajudem na criação e manutenção de um Brasil mais seguro e sem violência contra as mulheres.
 
